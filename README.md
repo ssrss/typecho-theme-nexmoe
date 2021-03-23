@@ -1,4 +1,4 @@
-![预览图](screenshot.png)
+![预览图](screenshot.png
 
 <h1 align="center"><a href="https://nexmoe.com/hexo-theme-nexmoe.html" target="_blank">Nexmoe</a></h1>
 
